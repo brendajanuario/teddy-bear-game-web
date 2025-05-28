@@ -1,7 +1,7 @@
-# My Web Game
+# Teddy-Bear game web
 
 ## Overview
-My Web Game is a simple web-based game where players can accumulate coins by watching a timer and purchase hats to customize their character. The game is built using HTML, CSS, and JavaScript, making it lightweight and easy to run in any modern web browser.
+Teddy-Bear is a simple web-based game where players can accumulate coins by watching a timer and purchase hats to customize their character. The game is built using HTML, CSS, and JavaScript, making it lightweight and easy to run in any modern web browser.
 
 ## Features
 - A central character image that can be customized with different hats.
